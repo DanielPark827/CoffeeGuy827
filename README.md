@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://box-world.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="https://box-world.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 <!--
 **CoffeeGuy827/CoffeeGuy827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
