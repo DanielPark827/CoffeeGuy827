@@ -5,9 +5,9 @@
 
 ### 🔭 Career
 
-<ul> Head @ mobile app part in NBNB.inc
-<ul> Head @ mobile app part in NBNB.inc
-<ul> Received the B.S. degrees, in Computer Engineering from Inha National University, Seoul, Korea, in 2022.
++ Head @ mobile app part in NBNB.inc
++ Head @ mobile app part in NBNB.inc
++ Received the B.S. degrees, in Computer Engineering from Inha National University, Seoul, Korea, in 2022.
 
 
 <!--
