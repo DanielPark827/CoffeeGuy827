@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielPark827&repo=CoffeeGuy827)](https://github.com/DanielPark827/CoffeeGuy827)
+
 ### **Daniel Park** 
 #### "Smarter is always the answer"
 
